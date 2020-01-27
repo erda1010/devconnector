@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://erda123:erda123@cluster1-vi6jl.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "a003f62b6cc1e16867ea",
+  "githubSecret": "a13fc59591600ed3f7e053a16981d8a9329e064d"
+}
